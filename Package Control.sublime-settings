@@ -1,0 +1,45 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AutoFileName",
+		"Babel",
+		"BracketHighlighter",
+		"ChineseLocalizations",
+		"Color Highlighter",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"Diffy",
+		"DocBlockr",
+		"EJS 2",
+		"Emmet",
+		"FileHeader",
+		"Git",
+		"GitGutter",
+		"Handlebars",
+		"HTML-CSS-JS Prettify",
+		"IMESupport",
+		"JSHint",
+		"LESS",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"PlainTasks",
+		"Python 3",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jsxhint",
+		"SublimeTmpl",
+		"TodoReview",
+		"TypeScript",
+		"Vue Syntax Highlight"
+	]
+}

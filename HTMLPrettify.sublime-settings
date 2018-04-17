@@ -1,0 +1,13 @@
+{
+	"global_file_rules":
+    {
+        // Be sure to include the `html` key in your user settings to be able
+        // to prettify html files.
+        "html":
+        {
+            "allowed_file_extensions": ["htm", "html", "xhtml", "shtml", "xml", "svg", "vue"],
+            "allowed_file_syntaxes": ["html", "xml"],
+            "disallowed_file_patterns": []
+        },
+    }
+}

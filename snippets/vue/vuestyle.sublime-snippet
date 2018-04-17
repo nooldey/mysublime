@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<style lang="${1:scss}" scoped>
+</style>
+]]></content>
+	<tabTrigger>vuestyle</tabTrigger>
+	<scope>text.html.vue</scope>
+  <description>Vue Style</description>
+</snippet>

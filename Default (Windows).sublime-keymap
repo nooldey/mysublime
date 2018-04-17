@@ -1,0 +1,9 @@
+[
+	{ 
+		"keys": [";"],
+		"command": "run_macro_file",
+		"args": {
+			"file": "Packages/User/unAutoSemiColon.sublime-macro"
+		} 
+	}
+]

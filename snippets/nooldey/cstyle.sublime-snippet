@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+:class="\$style.${2}"
+]]></content>
+	<tabTrigger>cstyle</tabTrigger>
+	<scope>text.html</scope>
+  <description>:class="$style.name"</description>
+</snippet>

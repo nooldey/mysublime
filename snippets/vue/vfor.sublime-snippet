@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+v-for="${1:item} of ${2:items}" :key="${3:i}"
+]]></content>
+	<tabTrigger>vfor</tabTrigger>
+	<scope>text.html</scope>
+  <description>v-for="item in items"</description>
+</snippet>

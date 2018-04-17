@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+v-model="${1:item}"
+]]></content>
+	<tabTrigger>v-model</tabTrigger>
+	<scope>text.html</scope>
+  <description>v-model=""</description>
+</snippet>

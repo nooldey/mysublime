@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<popup @hide="\$emit('close')">
+	<template slot-scope="props">
+		<div class="ui-dialog">
+			${1}
+		</div>
+	</template>
+</popup>
+]]></content>
+	<tabTrigger>vuepop</tabTrigger>
+	<scope>text.html</scope>
+  <description>popup code area</description>
+</snippet>
