@@ -38,5 +38,6 @@
 	"save_on_focus_lost": true,
 	"theme": "Default.sublime-theme",
 	"update_check": false,
+	"preview_on_click": false,
 	"word_wrap": "true"
 }
