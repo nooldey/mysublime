@@ -1,6 +1,8 @@
 {
 	"preferences": {
 		"css.valueSeparator": ": ",
-		"css.propertyEnd": ";"
-	}
+		"css.propertyEnd": ";",
+	},
+	"telemetry": true,
+	"uid": "346cbcf0-85ba-434f-8ca3-f95beabd60cf",
 }
