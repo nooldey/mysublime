@@ -37,6 +37,7 @@
         "Vintage",
     ],
     "save_on_focus_lost": true,
+    "sublime_merge_path": "D:\\program\\sublime_merge\\sublime_merge.exe",
     "theme": "One Dark.sublime-theme",
     "update_check": false,
     "preview_on_click": false,
