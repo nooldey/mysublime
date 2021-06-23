@@ -17,7 +17,7 @@
         ".idea/**",
         "node_modules/**"
     ],
-    "color_scheme": "Packages/Theme - One Dark/One Dark.tmTheme",
+    "color_scheme": "Packages/Theme - One Dark/Widget - One Dark.tmTheme",
     "folder_exclude_patterns":
     [
         ".svn",
@@ -29,7 +29,7 @@
         "dist/**",
         "prod/**"
     ],
-    "font_face": "Fira Code, Hannotate SC, Monaco, PingFang SC, Microsoft YaHei Mono, Consolas, 'Courier New', monospace",
+    "font_face": "Hannotate SC, Monaco, PingFang SC, Microsoft YaHei Mono, Consolas, 'Courier New', monospace",
     "font_size": 12,
     "ignored_packages":
     [
