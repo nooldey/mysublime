@@ -1,44 +1,44 @@
 {
-	"binary_file_patterns":
-	[
-		"*.dds",
-		"*.eot",
-		"*.gif",
-		"*.ico",
-		"*.jar",
-		"*.jpeg",
-		"*.jpg",
-		"*.pdf",
-		"*.png",
-		"*.swf",
-		"*.tga",
-		"*.ttf",
-		"*.zip",
-		".idea/**",
-		"node_modules/**"
-	],
-	"color_scheme": "Monokai Pro (Filter Machine).sublime-color-scheme",
-	"folder_exclude_patterns":
-	[
-		".svn",
-		".git",
-		".hg",
-		"CVS",
-		".idea/**",
-		"node_modules/**",
-		"dist/**",
-		"prod/**"
-	],
-	"font_face": "Fira Code, Hannotate SC, Monaco, PingFang SC, Microsoft YaHei Mono, Consolas, 'Courier New', monospace",
-	"font_size": 10,
-	"ignored_packages":
-	[
-		"Rust",
-		"Vintage",
-	],
-	"save_on_focus_lost": true,
-	"theme": "One Dark.sublime-theme",
-	"update_check": false,
-	"preview_on_click": false,
-	"word_wrap": "true",
+    "binary_file_patterns":
+    [
+        "*.dds",
+        "*.eot",
+        "*.gif",
+        "*.ico",
+        "*.jar",
+        "*.jpeg",
+        "*.jpg",
+        "*.pdf",
+        "*.png",
+        "*.swf",
+        "*.tga",
+        "*.ttf",
+        "*.zip",
+        ".idea/**",
+        "node_modules/**"
+    ],
+    "color_scheme": "Packages/Theme - One Dark/One Dark.tmTheme",
+    "folder_exclude_patterns":
+    [
+        ".svn",
+        ".git",
+        ".hg",
+        "CVS",
+        ".idea/**",
+        "node_modules/**",
+        "dist/**",
+        "prod/**"
+    ],
+    "font_face": "Fira Code, Hannotate SC, Monaco, PingFang SC, Microsoft YaHei Mono, Consolas, 'Courier New', monospace",
+    "font_size": 12,
+    "ignored_packages":
+    [
+        "Rust",
+        "Vintage",
+    ],
+    "save_on_focus_lost": true,
+    "theme": "One Dark.sublime-theme",
+    "update_check": false,
+    "preview_on_click": false,
+    "word_wrap": "true",
 }
